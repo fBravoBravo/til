@@ -17,6 +17,7 @@ Every day I touch infrastructure, code, or tooling I learn something worth writi
 ├── ai/               # LLMs, agentic workflows, codegen
 ├── cicd/             # Pipelines, GitHub Actions, quality gates
 ├── observability/    # Logs, metrics, traces, alerting
+├── docs/             # Documentation platforms, DX, and content ops
 └── README.md         # You are here
 ```
 
