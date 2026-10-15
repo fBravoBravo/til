@@ -18,6 +18,7 @@ Every day I touch infrastructure, code, or tooling I learn something worth writi
 ├── cicd/             # Pipelines, GitHub Actions, quality gates
 ├── observability/    # Logs, metrics, traces, alerting
 ├── docs/             # Documentation platforms, DX, and content ops
+├── hosting/          # VPS, PaaS, and self-hosted infrastructure
 └── README.md         # You are here
 ```
 
